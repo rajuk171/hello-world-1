@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning SRI VENKATESWAR SWAMY  VARU </h1>
+   <h1> Thankyou, Happy Learning SRI VENKATESWAR SWAMY  VARU TIRUPATHI </h1>
 
   
 </form>
